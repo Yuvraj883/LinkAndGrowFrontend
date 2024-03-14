@@ -1,12 +1,13 @@
+import { useState } from 'react'
 
+import './App.css'
 import { Button } from './components/ui/button'
 
 function App() {
-  
 
   return (
     <>
-      <Button>Pls work</Button>
+   <Button>Jai Shree Ram</Button>
     </>
   )
 }
