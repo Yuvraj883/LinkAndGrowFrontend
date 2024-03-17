@@ -1,11 +1,11 @@
 import './App.css'
-import { Button } from './components/ui/button'
+import Navbar from './customComponents/Navbar'
 
 function App() {
 
   return (
     <>
-   <Button className="bg-orange-400">Jai Shree Ram</Button>
+    <Navbar></Navbar>
     </>
   )
 }
